@@ -1,0 +1,121 @@
+"","District","Time","Type","Number","UnemploymentRate","CostLivingIndex"
+"1","Canterbury","2017Q3","Unlawful Entry With Intent/Burglary, Break and Enter",37,"4.6",1.9
+"2","Canterbury","2017Q4","Unlawful Entry With Intent/Burglary, Break and Enter",101,"4.4",1.8
+"3","Canterbury","2018Q1","Unlawful Entry With Intent/Burglary, Break and Enter",111,"4.6",1.7
+"4","Canterbury","2018Q2","Unlawful Entry With Intent/Burglary, Break and Enter",126,"4.4",1.9
+"5","Canterbury","2018Q3","Unlawful Entry With Intent/Burglary, Break and Enter",73,"3.9",2.2
+"6","Canterbury","2018Q4","Unlawful Entry With Intent/Burglary, Break and Enter",124,"4.4",2.1
+"7","Canterbury","2019Q1","Unlawful Entry With Intent/Burglary, Break and Enter",130,"4.4",1.3
+"8","Canterbury","2019Q2","Unlawful Entry With Intent/Burglary, Break and Enter",114,"3.9",1.5
+"9","Canterbury","2019Q3","Unlawful Entry With Intent/Burglary, Break and Enter",67,"4.0",1.3
+"10","Canterbury","2019Q4","Unlawful Entry With Intent/Burglary, Break and Enter",114,"4.1",1.5
+"11","Canterbury","2020Q1","Unlawful Entry With Intent/Burglary, Break and Enter",116,"4.5",2.4
+"12","Canterbury","2020Q2","Unlawful Entry With Intent/Burglary, Break and Enter",111,"3.9",1.1
+"13","Canterbury","2020Q3","Unlawful Entry With Intent/Burglary, Break and Enter",61,"5.1",0.8
+"14","Canterbury","2020Q4","Unlawful Entry With Intent/Burglary, Break and Enter",89,"4.9",0.7
+"15","Canterbury","2021Q1","Unlawful Entry With Intent/Burglary, Break and Enter",91,"4.9",0.7
+"16","Canterbury","2021Q2","Unlawful Entry With Intent/Burglary, Break and Enter",109,"3.9",2.5
+"17","Canterbury","2021Q3","Unlawful Entry With Intent/Burglary, Break and Enter",52,"3.2",4
+"18","Canterbury","2021Q4","Unlawful Entry With Intent/Burglary, Break and Enter",100,"3.2",5.2
+"19","Canterbury","2022Q1","Unlawful Entry With Intent/Burglary, Break and Enter",66,"3.4",6.6
+"20","Canterbury","2022Q2","Unlawful Entry With Intent/Burglary, Break and Enter",76,"3.2",7.4
+"21","Canterbury","2017Q3","Theft and Related Offences",182,"4.6",1.9
+"22","Canterbury","2017Q4","Theft and Related Offences",458,"4.4",1.8
+"23","Canterbury","2018Q1","Theft and Related Offences",380,"4.6",1.7
+"24","Canterbury","2018Q2","Theft and Related Offences",435,"4.4",1.9
+"25","Canterbury","2018Q3","Theft and Related Offences",300,"3.9",2.2
+"26","Canterbury","2018Q4","Theft and Related Offences",458,"4.4",2.1
+"27","Canterbury","2019Q1","Theft and Related Offences",503,"4.4",1.3
+"28","Canterbury","2019Q2","Theft and Related Offences",498,"3.9",1.5
+"29","Canterbury","2019Q3","Theft and Related Offences",333,"4.0",1.3
+"30","Canterbury","2019Q4","Theft and Related Offences",437,"4.1",1.5
+"31","Canterbury","2020Q1","Theft and Related Offences",507,"4.5",2.4
+"32","Canterbury","2020Q2","Theft and Related Offences",404,"3.9",1.1
+"33","Canterbury","2020Q3","Theft and Related Offences",234,"5.1",0.8
+"34","Canterbury","2020Q4","Theft and Related Offences",365,"4.9",0.7
+"35","Canterbury","2021Q1","Theft and Related Offences",314,"4.9",0.7
+"36","Canterbury","2021Q2","Theft and Related Offences",279,"3.9",2.5
+"37","Canterbury","2021Q3","Theft and Related Offences",207,"3.2",4
+"38","Canterbury","2021Q4","Theft and Related Offences",246,"3.2",5.2
+"39","Canterbury","2022Q1","Theft and Related Offences",220,"3.4",6.6
+"40","Canterbury","2022Q2","Theft and Related Offences",288,"3.2",7.4
+"41","Canterbury","2017Q3","Robbery, Extortion and Related Offences",15,"4.6",1.9
+"42","Canterbury","2017Q4","Robbery, Extortion and Related Offences",31,"4.4",1.8
+"43","Canterbury","2018Q1","Robbery, Extortion and Related Offences",35,"4.6",1.7
+"44","Canterbury","2018Q2","Robbery, Extortion and Related Offences",50,"4.4",1.9
+"45","Canterbury","2018Q3","Robbery, Extortion and Related Offences",21,"3.9",2.2
+"46","Canterbury","2018Q4","Robbery, Extortion and Related Offences",19,"4.4",2.1
+"47","Canterbury","2019Q1","Robbery, Extortion and Related Offences",22,"4.4",1.3
+"48","Canterbury","2019Q2","Robbery, Extortion and Related Offences",20,"3.9",1.5
+"49","Canterbury","2019Q3","Robbery, Extortion and Related Offences",11,"4.0",1.3
+"50","Canterbury","2019Q4","Robbery, Extortion and Related Offences",33,"4.1",1.5
+"51","Canterbury","2020Q1","Robbery, Extortion and Related Offences",28,"4.5",2.4
+"52","Canterbury","2020Q2","Robbery, Extortion and Related Offences",30,"3.9",1.1
+"53","Canterbury","2020Q3","Robbery, Extortion and Related Offences",17,"5.1",0.8
+"54","Canterbury","2020Q4","Robbery, Extortion and Related Offences",16,"4.9",0.7
+"55","Canterbury","2021Q1","Robbery, Extortion and Related Offences",22,"4.9",0.7
+"56","Canterbury","2021Q2","Robbery, Extortion and Related Offences",33,"3.9",2.5
+"57","Canterbury","2021Q3","Robbery, Extortion and Related Offences",25,"3.2",4
+"58","Canterbury","2021Q4","Robbery, Extortion and Related Offences",40,"3.2",5.2
+"59","Canterbury","2022Q1","Robbery, Extortion and Related Offences",30,"3.4",6.6
+"60","Canterbury","2022Q2","Robbery, Extortion and Related Offences",33,"3.2",7.4
+"61","Wellington","2017Q3","Unlawful Entry With Intent/Burglary, Break and Enter",36,"4.6",1.9
+"62","Wellington","2017Q4","Unlawful Entry With Intent/Burglary, Break and Enter",97,"4.4",1.8
+"63","Wellington","2018Q1","Unlawful Entry With Intent/Burglary, Break and Enter",87,"4.6",1.7
+"64","Wellington","2018Q2","Unlawful Entry With Intent/Burglary, Break and Enter",121,"4.4",1.9
+"65","Wellington","2018Q3","Unlawful Entry With Intent/Burglary, Break and Enter",82,"3.9",2.2
+"66","Wellington","2018Q4","Unlawful Entry With Intent/Burglary, Break and Enter",111,"4.4",2.1
+"67","Wellington","2019Q1","Unlawful Entry With Intent/Burglary, Break and Enter",96,"4.4",1.3
+"68","Wellington","2019Q2","Unlawful Entry With Intent/Burglary, Break and Enter",120,"3.9",1.5
+"69","Wellington","2019Q3","Unlawful Entry With Intent/Burglary, Break and Enter",80,"4.0",1.3
+"70","Wellington","2019Q4","Unlawful Entry With Intent/Burglary, Break and Enter",98,"4.1",1.5
+"71","Wellington","2020Q1","Unlawful Entry With Intent/Burglary, Break and Enter",102,"4.5",2.4
+"72","Wellington","2020Q2","Unlawful Entry With Intent/Burglary, Break and Enter",98,"3.9",1.1
+"73","Wellington","2020Q3","Unlawful Entry With Intent/Burglary, Break and Enter",75,"5.1",0.8
+"74","Wellington","2020Q4","Unlawful Entry With Intent/Burglary, Break and Enter",88,"4.9",0.7
+"75","Wellington","2021Q1","Unlawful Entry With Intent/Burglary, Break and Enter",85,"4.9",0.7
+"76","Wellington","2021Q2","Unlawful Entry With Intent/Burglary, Break and Enter",77,"3.9",2.5
+"77","Wellington","2021Q3","Unlawful Entry With Intent/Burglary, Break and Enter",46,"3.2",4
+"78","Wellington","2021Q4","Unlawful Entry With Intent/Burglary, Break and Enter",86,"3.2",5.2
+"79","Wellington","2022Q1","Unlawful Entry With Intent/Burglary, Break and Enter",56,"3.4",6.6
+"80","Wellington","2022Q2","Unlawful Entry With Intent/Burglary, Break and Enter",67,"3.2",7.4
+"81","Wellington","2017Q3","Theft and Related Offences",142,"4.6",1.9
+"82","Wellington","2017Q4","Theft and Related Offences",362,"4.4",1.8
+"83","Wellington","2018Q1","Theft and Related Offences",319,"4.6",1.7
+"84","Wellington","2018Q2","Theft and Related Offences",392,"4.4",1.9
+"85","Wellington","2018Q3","Theft and Related Offences",312,"3.9",2.2
+"86","Wellington","2018Q4","Theft and Related Offences",409,"4.4",2.1
+"87","Wellington","2019Q1","Theft and Related Offences",403,"4.4",1.3
+"88","Wellington","2019Q2","Theft and Related Offences",435,"3.9",1.5
+"89","Wellington","2019Q3","Theft and Related Offences",290,"4.0",1.3
+"90","Wellington","2019Q4","Theft and Related Offences",503,"4.1",1.5
+"91","Wellington","2020Q1","Theft and Related Offences",394,"4.5",2.4
+"92","Wellington","2020Q2","Theft and Related Offences",321,"3.9",1.1
+"93","Wellington","2020Q3","Theft and Related Offences",234,"5.1",0.8
+"94","Wellington","2020Q4","Theft and Related Offences",280,"4.9",0.7
+"95","Wellington","2021Q1","Theft and Related Offences",296,"4.9",0.7
+"96","Wellington","2021Q2","Theft and Related Offences",254,"3.9",2.5
+"97","Wellington","2021Q3","Theft and Related Offences",147,"3.2",4
+"98","Wellington","2021Q4","Theft and Related Offences",251,"3.2",5.2
+"99","Wellington","2022Q1","Theft and Related Offences",276,"3.4",6.6
+"100","Wellington","2022Q2","Theft and Related Offences",336,"3.2",7.4
+"101","Wellington","2017Q3","Robbery, Extortion and Related Offences",12,"4.6",1.9
+"102","Wellington","2017Q4","Robbery, Extortion and Related Offences",29,"4.4",1.8
+"103","Wellington","2018Q1","Robbery, Extortion and Related Offences",18,"4.6",1.7
+"104","Wellington","2018Q2","Robbery, Extortion and Related Offences",22,"4.4",1.9
+"105","Wellington","2018Q3","Robbery, Extortion and Related Offences",9,"3.9",2.2
+"106","Wellington","2018Q4","Robbery, Extortion and Related Offences",22,"4.4",2.1
+"107","Wellington","2019Q1","Robbery, Extortion and Related Offences",38,"4.4",1.3
+"108","Wellington","2019Q2","Robbery, Extortion and Related Offences",35,"3.9",1.5
+"109","Wellington","2019Q3","Robbery, Extortion and Related Offences",22,"4.0",1.3
+"110","Wellington","2019Q4","Robbery, Extortion and Related Offences",25,"4.1",1.5
+"111","Wellington","2020Q1","Robbery, Extortion and Related Offences",39,"4.5",2.4
+"112","Wellington","2020Q2","Robbery, Extortion and Related Offences",30,"3.9",1.1
+"113","Wellington","2020Q3","Robbery, Extortion and Related Offences",24,"5.1",0.8
+"114","Wellington","2020Q4","Robbery, Extortion and Related Offences",25,"4.9",0.7
+"115","Wellington","2021Q1","Robbery, Extortion and Related Offences",29,"4.9",0.7
+"116","Wellington","2021Q2","Robbery, Extortion and Related Offences",11,"3.9",2.5
+"117","Wellington","2021Q3","Robbery, Extortion and Related Offences",21,"3.2",4
+"118","Wellington","2021Q4","Robbery, Extortion and Related Offences",21,"3.2",5.2
+"119","Wellington","2022Q1","Robbery, Extortion and Related Offences",14,"3.4",6.6
+"120","Wellington","2022Q2","Robbery, Extortion and Related Offences",23,"3.2",7.4
